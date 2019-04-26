@@ -1,0 +1,5 @@
+class Class1 {
+    test = "random string"
+}
+class Class2 {}
+class Class3 {}
